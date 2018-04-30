@@ -1,0 +1,17 @@
+TODO
+- DONE refactor izhikevichNetwork in/outputs  
+- DONE initialize ISI to empty matrix in synthetic.m
+- DONE double-check power tests and RERUN
+- DONE check f equations in anovaPowerExperiment
+- DONE update data file names 
+- DONE extract method in exp_COV exp_COVNS
+- DONE clean up COV calculations
+- DONE (tried) change decode to work on spikes rather than currents (faster)
+- DONE standardize signal file name formats
+- DONE upper case PDF in randpdf
+- DONE prepend 'gen' to coarseCorrelated, correlated, synthetic, uncorrelated
+- NO change jitter.m time resolution to .0002s (from .001s)
+- DONE optimize jitter for common case (i.e. only uncorrelated)
+- DONE check validity of more-spikes loop in uncorrelated.m
+- DONE fix testF() in anovaTrials.m
+- DONE review figure scripts
